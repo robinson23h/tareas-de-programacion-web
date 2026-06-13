@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(213, 215, 216);
+}
+
+h1{
+    color: blueviolet;
+}
+
+.titulo-seccion{
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 5px;
+    display: inline-block;
+    background-color: lightblue;
+}
+
+.subtitulo{
+    color: blueviolet;
+}
